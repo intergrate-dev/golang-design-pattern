@@ -2,6 +2,10 @@
 
 [![Build Status](https://travis-ci.org/senghoo/golang-design-pattern.svg?branch=master)](https://travis-ci.org/senghoo/golang-design-pattern)
 
+## 图说设计模式
+
+https://design-patterns.readthedocs.io/zh_CN/latest/index.html
+
 Go 语言设计模式的实例代码
 
 ## 创建型模式
